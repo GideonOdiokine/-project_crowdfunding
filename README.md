@@ -5,7 +5,7 @@
 
 ‼ this project is only for learning purposes
 
-![img](images_for_preview/j3.jpg)
+![img](images_for_preview/3.png)
 
 ![img](images_for_preview/2.jpg)
 
